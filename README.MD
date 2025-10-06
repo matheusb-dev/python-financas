@@ -19,4 +19,11 @@
 **DataFrase ->** Estrutura de dados bidimensional, como um ou uma tabela com linhas e colunas.
 
 
+<h5>05/10/2025</h5>
+
+- Hoje vou criar uma planilha .csv e depois irei reescrever por cima dela, na primeira vez aprenas criei outro arquivo em cima daquele, agora irei ler e depois escrever.
+
+
 <h5>06/10/2025</h5>
+
+- Hoje, irei aprender um pouco de dicionario e POO
