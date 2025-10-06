@@ -21,9 +21,13 @@
 
 <h5>05/10/2025</h5>
 
-- Hoje vou criar uma planilha .csv e depois irei reescrever por cima dela, na primeira vez aprenas criei outro arquivo em cima daquele, agora irei ler e depois escrever.
+- Hoje vou criar uma planilha .csv e depois irei reescrever por cima dela, na primeira vez aprenas criei outro arquivo em cima daquele, agora irei ler e depois escrever. O **CONCAT** serve para unir várias tabelas de dados (ou DataFrames, como são chamados no pandas ) e você precisa juntá-los em uma única tabela. É aqui que o método concat entra em jogo. O concat permite que você “cole” (concatene) DataFrames ao longo de um eixo específico, seja vertical ou horizontalment
+
+<img src="./images/concat/concat.png" alt="Mostrando Horizontal e Vertical">
+
+
 
 
 <h5>06/10/2025</h5>
 
-- Hoje, irei aprender um pouco de dicionario e POO
+- Hoje, irei aprender um pouco de dicionario, imagine ele como um rótulo, ond 
