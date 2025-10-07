@@ -30,4 +30,4 @@
 
 <h5>06/10/2025</h5>
 
-- Hoje, irei aprender um pouco de dicionario, imagine ele como um rótulo, ond 
+- Hoje, irei aprender um pouco de dicionario e POO
