@@ -30,4 +30,4 @@
 
 <h5>06/10/2025</h5>
 
-- Hoje, irei aprender um pouco de dicionario e POO
+- Hoje, irei aprender um pouco de dicionario, imagina ele como se fosse um rotulador, onde ele pode rotular as coisas,
